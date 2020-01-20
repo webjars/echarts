@@ -14,7 +14,7 @@
     <version>4.6.1-SNAPSHOT</version>
     <name>ECharts</name>
     <description>WebJar for ECharts</description>
-    <url>http://webjars.org</url>
+    <url>https://webjars.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
